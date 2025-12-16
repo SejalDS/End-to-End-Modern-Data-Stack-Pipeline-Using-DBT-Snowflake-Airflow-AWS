@@ -44,3 +44,4 @@ The project uses Netflix datasets to answer business-driven questions and genera
 - CI/CD for DBT deployments
 - Advanced data quality checks
 - Additional dashboards and KPIs
+<img width="1125" height="533" alt="image" src="https://github.com/user-attachments/assets/77033eb9-b26c-4876-a3d1-dc39f2535dc1" />
